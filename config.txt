@@ -1,0 +1,4 @@
+TOKEN=
+SERVER_ID=
+IGN=sh1tters
+CHANNEL_ID=
